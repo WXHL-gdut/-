@@ -6,16 +6,16 @@
 }
 
 .userinfo-avatar {
-  width:128rpx;
+  width: 128rpx;
   height: 128rpx;
   margin: 20rpx;
-  border-radius: 60%;
+  border-radius: 50%;
 }
 
 .userinfo-nickname {
-  color: blue;
+  color: #aaa;
 }
 
 .usermotto {
-  margin-top:100px;
+  margin-top: 200px;
 }
