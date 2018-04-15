@@ -1,14 +1,20 @@
 // pages/wxkc/wxkc.js
+const com = require('../../utils/common.js')
 var app=getApp();
-var com = require('../../common');
 Page({
   /**
    * 页面的初始数据
    */
   data: {
-  
+    
   },
+  fnUserState(){
+    this.setData({
+    });
+  },
+  fnUserState2() {
 
+  },
   /**
    * 生命周期函数--监听页面加载
    */

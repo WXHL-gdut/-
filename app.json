@@ -1,9 +1,9 @@
 
 {
   "pages":[
+    "pages/wxkc/wxkc",
     "pages/index/index",
-    "pages/logs/logs",
-    "pages/wxkc/wxkc"
+    "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",

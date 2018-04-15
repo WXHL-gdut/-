@@ -1,2 +1,4 @@
 <!--pages/wxkc/wxkc--->
-<text>万象快传</text>
+<!--<text>万象快传</text>-->
+<button type="primary"bindtap="fnUserState">发送文件</button>
+<button type="primary"bindtap="fnUserState2">接收文件</button>

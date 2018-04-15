@@ -1,4 +1,4 @@
-function echoSend (user){
+function echoSend(user){
   return '发送文件：${file name}'
 }
 function echoRecive(user){
