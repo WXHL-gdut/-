@@ -2,7 +2,7 @@
 <view class="container">
      <image class="live-bg" src="https://raw.githubusercontent.com/WXHL-gdut/WWHL/master/icon/Cache_1f6159585d8f3afb..png"></image> 
      <view class="content">
-        <button type='' bindtap=''>发送</button>
-        <button type='' bindtap=''>接收</button>
+        <button type='' bindtap='bindbuttontap'>发送</button>
+        <button type='' bindtap='bindbuttontap'>接收</button>
      </view>
 </view>
