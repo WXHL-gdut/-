@@ -1,0 +1,35 @@
+/* pages/home/home.wxss */
+page{
+ width: 100%;
+}
+.content{
+  z-index: 99;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  position: relative;
+  padding-top:250rpx;
+}
+.content button{
+  width:40%;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  background: #cc0033;
+  color:#fff;
+  margin-top:35rpx;
+
+}
+
+.live-bg{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 98;
+    height: 100%;
+    
+}

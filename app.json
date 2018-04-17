@@ -1,12 +1,14 @@
-
 {
   "pages":[
-    "pages/wxkc/wxkc"
+    "pages/text/text",
+    "pages/home/home",
+    "pages/index/index",
+    "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#55c",
-    "navigationBarTitleText": "万象快传",
-    "navigationBarTextStyle":"while"
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
   }
 }
