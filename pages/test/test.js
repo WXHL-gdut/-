@@ -13,6 +13,20 @@ Page({
 
   onLoad: function() {
     console.log(this);
-  }
+  },
+
+  getLocalImage: function (e) {
+    var that = this;
+    wx.chooseImage(
+      {
+        success: function(res){
+          that.setData({
+            filePath: res.tempFilePaths
+          });
+          console.log(that.data.filePath);
+        }
+      }
+    );
+  },
 
 })

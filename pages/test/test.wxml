@@ -2,6 +2,7 @@
   <text>请输入要输入的内容</text>
   <input confirm-type='search' bindconfirm='searchFile' value='/icon/未标题-3.png'></input>
   <image id='img1' src="{{filePath}}"></image>
-
+  <button bindtap='getLocalImage'>获取本地图片</button>
+  <textarea value="{{filePath}}" auto-height='true'></textarea>
 
 </view>
