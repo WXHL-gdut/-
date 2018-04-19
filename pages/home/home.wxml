@@ -1,8 +1,8 @@
 <!--pages/home/home.wxml-->
 <view class="container">
-     <image class="live-bg" src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4190067448,1193545192&fm=27&gp=0.jpg"></image> 
+     <image class="live-bg" src="https://raw.githubusercontent.com/WXHL-gdut/WWHL/master/icon/Cache_1f6159585d8f3afb..png"></image> 
      <view class="content">
-        <button type='' bindtap=''>发送</button>
-        <button type='' bindtap=''>接收</button>
+        <button type='' bindtap='bindbuttontap'>发送</button>
+        <button type='' bindtap='bindbuttontap'>接收</button>
      </view>
 </view>

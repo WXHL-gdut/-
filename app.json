@@ -1,7 +1,9 @@
 {
   "pages":[
+    "pages/test/test",
     "pages/home/home",
-    "pages/text/text"
+    "pages/text/text",
+    "pages/receive/receive"
   ],
   "window":{
     "backgroundTextStyle":"light",

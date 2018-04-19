@@ -1,4 +1,4 @@
-// pages/home/home.js
+// pages/receive/receive.js
 Page({
 
   /**
@@ -7,11 +7,7 @@ Page({
   data: {
   
   },
-bindbuttontap: function(){
-  wx.navigateTo({
-    url: '../text/text'
-  })
-},
+
   /**
    * 生命周期函数--监听页面加载
    */
